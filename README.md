@@ -1,8 +1,11 @@
 # HTML-Tutorial
 
-## 1. Introduction to HTML
-- Overview of HTML
-- Setting Up Development Environment
+## Index
+
+## 1. Introduction to HTML index.html
+- Overview of HTML overivew.html
+- A Brief History of HTML brief-history.html
+- Examples of HTML  examples.html
 
 ## 2. Basic Structure of HTML
 - Creating an HTML Document
@@ -50,3 +53,43 @@
 
 ## 12. Conclusion
 - Recap and Next Steps
+
+
+HTML-Tutorial/
+├── README.md
+├── 01-Introduction-to-HTML/
+│   ├── overview-of-html.html
+│   └── setting-up-development-environment.html
+├── 02-Basic-Structure-of-HTML/
+│   ├── creating-an-html-document.html
+│   ├── html-tags-and-elements.html
+│   └── head-and-body-sections.html
+├── 03-Text-Formatting/
+│   ├── headings.html
+│   ├── paragraphs.html
+│   ├── formatting-text.html
+│   └── line-breaks-and-horizontal-rules.html
+├── 04-Links-and-Images/
+│   ├── creating-hyperlinks.html
+│   └── image-tags-and-attributes.html
+├── 05-Lists/
+│   ├── unordered-lists.html
+│   ├── ordered-lists.html
+│   └── nested-lists.html
+├── 06-Tables/
+│   ├── creating-tables.html
+│   └── table-elements.html
+├── 07-Forms/
+│   ├── form-elements.html
+│   └── form-submission.html
+├── 08-Multimedia/
+│   └── embedding-audio-and-video.html
+├── 09-Semantic-HTML/
+│   └── semantic-tags.html
+├── 10-Advanced-HTML-Features/
+│   ├── meta-tags.html
+│   ├── comments-in-html.html
+│   └── iframes.html
+└── 11-HTML5-Features/
+    ├── canvas-element.html
+    └── local-storage.html
