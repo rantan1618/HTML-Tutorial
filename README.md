@@ -1,11 +1,16 @@
 # HTML-Tutorial
 
 ## Index
+home.html
+A more friendly introduction to HTML
 
 ## 1. Introduction to HTML index.html
 - Overview of HTML overivew.html
+  - What is HTML and why is it useful?
 - A Brief History of HTML brief-history.html
+  - From the beginning of the World wide web to HTML5
 - Examples of HTML  examples.html
+  - A complete list of the HTML elements
 
 ## 2. Basic Structure of HTML
 - Creating an HTML Document
